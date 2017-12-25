@@ -1,4 +1,4 @@
-# Selenium Scripts
+# Selenium Scripts (Magento 2 - add to cart || login)
 
 The following selenium script are meant for sitespeed.io and/or mage.coach (future release).
 Please setup a working sitespeed docker and clone/use the following script as an example.
